@@ -1,0 +1,19 @@
+{
+  "description": "Mercury Landing Page",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "union": "0.3.0",
+    "flatiron": "0.2.8"
+  },
+  "devDependencies": {
+    "api-easy": "0.3.2",
+    "vows": "0.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "landingPage",
+  "author": "bbjorklund",
+  "homepage": "index.htm"
+}
