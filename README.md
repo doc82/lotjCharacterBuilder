@@ -1,13 +1,14 @@
 lotjCharacterBuilder
+
 ====================
 
-An awesome character planner
+An awesome character planner website for Legends Of the Jedi, a star wars mud.
+
 
 Node Modules used:
-flatiron 		= require('flatiron'),
-path 			= require('path'),
-union 			= require('union'),
-plates 			= require('plates'),
-fs 				= require('fs'),
-ecstatic 		= require('ecstatic'),
-app 			= flatiron.app;
+* flatiron 		
+* path 			
+* union 		
+* plates
+* ecstatic
+* Socket.io
